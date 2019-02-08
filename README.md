@@ -1,5 +1,5 @@
 # Music-Lyrics-Converter
-convert lyrics for automatic processing and generation
+convert lyrics to data tables for automatic processing and generation
 
 Created on Wed Feb 6 15:23:19 2019
 
